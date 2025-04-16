@@ -1,11 +1,9 @@
 # thesis-code
-This repository contains the code used for my thesis project.
+This repository contains the codebase developed for my thesis project.
 
-Please note:
-- This code is not currently designed to run on every system "as-is". Variable names, file paths, and some configurations are specific to my environment during the thesis work.
-- The version here is a **working implementation**, but code clarity and structure can still be improved. Comments and documentation may be limited in some parts.
+**Please Note**
+Environment-Specific: The code is not fully portable. Variable names, file paths, and configurations are tailored to the setup used during development.
 
-Feel free to explore or adapt the code if it's helpful for your own work. If you have questions, you're welcome to reach out.
+**Legacy Version:** This version reflects the project as it existed in February 2025. As of April 2025, it may not run as-is due to changes in dependencies or system configuration.
 
-
-Dataset generation code
+**Work in Progress:** While this is a functional implementation, there is still room for improvement in code structure, clarity, and documentation. Some areas may be sparsely commented.
