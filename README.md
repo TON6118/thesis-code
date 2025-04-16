@@ -1,4 +1,3 @@
-# thesis-code
 This repository contains the codebase developed for my thesis project.
 
 **Please Note**
